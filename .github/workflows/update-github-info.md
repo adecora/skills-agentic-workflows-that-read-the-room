@@ -44,4 +44,4 @@ Refresh Mona's GitHub Info content with recent, useful updates from official Git
 
 ## Delivery
 
-When `site/content/github-info.md` changes, use the `create-pull-request` safe output to open one draft pull request for Mona to review. Include a concise summary of the sources and content changes in the pull request body.
+When `site/content/github-info.md` changes, use the `create-pull-request` safe output to open one draft pull request for Mona to review. Include a concise summary of the sources and content changes in the pull request body. Do not compile the workflow.
